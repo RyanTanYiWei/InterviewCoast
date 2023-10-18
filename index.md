@@ -2,7 +2,7 @@
 layout: default
 ---
 <img width="100%" src="diagrams/map.JPG">
-*Map of Singapore's City-east coast region, with district maps containing key infrastructrures the government aims to protect.*
+*Diagram: Map of Singapore's City-east coast region, with district maps containing key infrastructrures the government aims to protect.*
 
 *Singapore is a low-lying island and about 30 per cent of its land is less than 5m above sea level. If extreme sea-level scenarios reach 4m to 5m by 2100, our coastlines are at risk. One particular region of concern  is the City-East Coast Area, which is resident dense and contains much of our key infrastructure such as our Main Airport, City Shipping Terminal, and the Central Business District, and has been reported to experience historical cases of floodings.*
 
@@ -23,14 +23,14 @@ The first one that they're really focusing on is from the greater southern water
 
 ## Roles and Responsibilities
 <img width="100%" src="diagrams/org.JPG">
-*Organizational breakdown of actors involved in coastal protection efforts.*
+*Diagram: Organizational breakdown of actors involved in coastal protection efforts.*
 
 **You mentioned how the Public Utilities Board (PUB) is taking charge coastal protection – has that always been the case? How did that happen?** The role of coastal protection moved to PUB because they started to link it with climate change and they realize that they cannot separate the coastal protection from flood protection, and flood protection from inland flood protection. If extreme events of high tides and sea level rises coincides, you cannot pump your water out in time and it's going to cause inland flooding. 
 
 It went originally from Building Construction Authority (BCA), which used to just basically build and repair our sea walls, to PUB so that they could give a more strategic level kind of planning for future coastal protection, especially in the face of sea level rise.
 
 <img width="100%" src="diagrams/formal.JPG">
-*Formal chart of actors. The power to influence decision making lies beyond organizational hierarchy.*
+*Diagram: Formal chart of actors. The power to influence decision making lies beyond organizational hierarchy.*
 
 **So, who are the main actors involved in the coastal protection?** The biggest is definitely PUB and their parent ministry MSE will be very involved, that’s first. Then there are the other agencies that deal with planning that involve a lot of the coastline. So NParks is one because you have a coastal park. Urban Development Authority (URA) does a lot of the land planning and also Housing Development Board (HDB) because they do a lot of the land reclamation. So, these three agencies are quite tuned into a lot of the updates. Next are the agencies that own land by the coast - so like Maritime Port Authority (MPA) manages ports with some involvement in some land reclamation, Jurong Town Council (JTC) because they have quite a lot of industry areas near coastlines, like Jurong Island and also Tuas. 
 
@@ -51,7 +51,7 @@ Are these negotiation processes documented anywhere? Okay, so the, the reason wh
 
 ## Planning Processes
 <img width="100%" src="diagrams/process.JPG"> 
-*Diagram of the formal and informal processes in planning. The informal process was intepreted as told by the interviewee* 
+*Diagram: Visualization of the formal and informal processes in planning as told by the interviewee* 
 
 **Could you roughly bring me through the planning process?** Sure, it starts off with site specific studies for each Adaptive Planning Areas (APAs), to basically come up with a holistic assessment and solution for coastal protection within regions like City-east coast. For each site, PUB will recommend solutions that integrate protection with other opportunities related to liveability, it could be like maybe a promenade—essentially a system solution that includes recreation, industry or education.
 
@@ -82,7 +82,7 @@ So, the government is slowly changing, but I think you can see some changes thro
 
 ## Monitoring and Evaluation
 <img width="100%" src="diagrams/learning.JPG">
-*Interpretation of Social Learning based on Monitoring and Evaluation practices as told by the interviewee*
+*Diagram: Interpretation of Social Learning based on Monitoring and Evaluation practices as told by the interviewee*
 
 **Moving on, I would like to know more about Monitoring and Evaluation and how is it typically conducted in coastal projects.** On the very basic development project level, we have environmental management and monitoring plans (EMMPs). So, where there is a development, there'll be a monitoring and management to make sure that there is no there is no damage to the environment as predicted by the EIA. So, everything is going to plan, right. But if you're talking about like much larger kind of evaluation of big scale projects, I feel even if they do, they don't share it. Unless it's a success story, if you get what I mean.
 
