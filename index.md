@@ -99,7 +99,7 @@ The iterative process where you learn from it and then you build again is not do
 
 ## Reflection and Discussions
 
-The discussion about water governance has opened the conversation about a broader governance structure that influences 
+The discussion about water governance has opened the conversation about a broader governance structure that influences coastal management practices. We can see that some of the stregnths of such a structure is conversely also the reason for some weaknesses.
 
 **Efficient and Science-focused Governance.**
 Singapore’s efficient organizational structure and integrated approach is effective in planning for coastal protections. Even with such a centralized form of governance, the focused areas are decentralized (through Adaptation Planning Areas) and dealt with separately with respect to their unique needs and land characteristics. 
