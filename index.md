@@ -1,8 +1,8 @@
 ---
 layout: default
 ---
-<p align="center" width="100%"> <img width="100%" src="diagrams/map.JPG"> </p>
-*Map of Singapore's City-east coast region, with district maps containing key infrastructrures the government aims to protect*
+<img width="100%" src="diagrams/map.JPG">
+*Map of Singapore's City-east coast region, with district maps containing key infrastructrures the government aims to protect.*
 
 *Singapore is a low-lying island and about 30 per cent of its land is less than 5m above sea level. If extreme sea-level scenarios reach 4m to 5m by 2100, our coastlines are at risk. One particular region of concern  is the City-East Coast Area, which is resident dense and contains much of our key infrastructure such as our Main Airport, City Shipping Terminal, and the Central Business District, and has been reported to experience historical cases of floodings.*
 
@@ -22,15 +22,14 @@ Note: Because some of the points mentioned about may be confidential/sensitive, 
 The first one that they're really focusing on is from the greater southern waterfront all the way to Changi, including East Coast in between. So, there's the most vulnerable stretch of coastline in Singapore. 
 
 ## Roles and Responsibilities
-<p align="center" width="100%"> <img width="100%" src="diagrams/org.JPG"> </p>
-*Organizational breakdown of actors involved in coastal protection efforts*
+<img width="100%" src="diagrams/org.JPG">
+*Organizational breakdown of actors involved in coastal protection efforts.*
 
 **You mentioned how the Public Utilities Board (PUB) is taking charge coastal protection – has that always been the case? How did that happen?** The role of coastal protection moved to PUB because they started to link it with climate change and they realize that they cannot separate the coastal protection from flood protection, and flood protection from inland flood protection. If extreme events of high tides and sea level rises coincides, you cannot pump your water out in time and it's going to cause inland flooding. 
 
 It went originally from Building Construction Authority (BCA), which used to just basically build and repair our sea walls, to PUB so that they could give a more strategic level kind of planning for future coastal protection, especially in the face of sea level rise.
 
-<p align="center" width="100%"> <img width="100%" src="diagrams/formal.JPG"> </p>
-
+<img width="100%" src="diagrams/formal.JPG">
 *Formal chart of actors. The power to influence decision making lies beyond organizational hierarchy.*
 
 **So, who are the main actors involved in the coastal protection?** The biggest is definitely PUB and their parent ministry MSE will be very involved, that’s first. Then there are the other agencies that deal with planning that involve a lot of the coastline. So NParks is one because you have a coastal park. Urban Development Authority (URA) does a lot of the land planning and also Housing Development Board (HDB) because they do a lot of the land reclamation. So, these three agencies are quite tuned into a lot of the updates. Next are the agencies that own land by the coast - so like Maritime Port Authority (MPA) manages ports with some involvement in some land reclamation, Jurong Town Council (JTC) because they have quite a lot of industry areas near coastlines, like Jurong Island and also Tuas. 
@@ -45,14 +44,14 @@ The overarching priority for Singapore is almost always economic development and
 
 **You mentioned how “someone has to decide”. Who really decides?** I‘m not really involved when they give the final say that often? Usually, agencies tend to settle amongst themselves. If all these agencies can’t decide then it goes to Ministry like MND or MSE and sometimes it comes down to the point where the minister himself decides. It is also because these things have political implications.
 
-I think there could be better ways to negotiate trade-offs than just let one goal from an agency “trump” the other? What do you think? It’s slowly improving, I think. There are levers for us to insert our points of view in the earlier stages of planning process like Ecological Profiling Exercise  where we can highlight things like our ecological connectivity which should really try to maintain in new coastal projects. This would be better than waiting after the plans have been written and finding ways to mitigate. There's still change, but it's happening.
+**I think there could be better ways to negotiate trade-offs than just let one goal from an agency “trump” the other? What do you think?** It’s slowly improving, I think. There are levers for us to insert our points of view in the earlier stages of planning process like Ecological Profiling Exercise  where we can highlight things like our ecological connectivity which should really try to maintain in new coastal projects. This would be better than waiting after the plans have been written and finding ways to mitigate. There's still change, but it's happening.
 
 Are these negotiation processes documented anywhere? Okay, so the, the reason why there are so few concrete examples of that out there is because by the time it goes public, the government has this whole of government has this “our stand”. So, there's no visible infighting between the agencies, you're not supposed to show that right, because that's ugly, that's back of house things. All that is settled by the time it reaches the public. 
 
 
 ## Planning Processes
-<p align="center" width="100%"> <img width="100%" src="diagrams/process.JPG"> </p>
-*Diagram of the formal and informal processes in planning. The informal process was intepreted as told by the interviewee*
+<img width="100%" src="diagrams/process.JPG"> 
+*Diagram of the formal and informal processes in planning. The informal process was intepreted as told by the interviewee* 
 
 **Could you roughly bring me through the planning process?** Sure, it starts off with site specific studies for each Adaptive Planning Areas (APAs), to basically come up with a holistic assessment and solution for coastal protection within regions like City-east coast. For each site, PUB will recommend solutions that integrate protection with other opportunities related to liveability, it could be like maybe a promenade—essentially a system solution that includes recreation, industry or education.
 
@@ -82,7 +81,7 @@ But because of the urgency of the timeline, at least for the City-east coast reg
 So, the government is slowly changing, but I think you can see some changes through consultation programmes like TogetherSG and you will never have seen in the 60s. I think they're moving for something that's more superficial type of consultation. Hopefully to have more really proper and deep process where people are involved in decision making and policymaking in the future. It will take a while for us to get there. We need to get used to that kind of, you know, working style.
 
 ## Monitoring and Evaluation
-<p align="center" width="100%"> <img width="100%" src="diagrams/learning.JPG"> </p>
+<img width="100%" src="diagrams/learning.JPG">
 *Interpretation of Social Learning based on Monitoring and Evaluation practices as told by the interviewee*
 
 **Moving on, I would like to know more about Monitoring and Evaluation and how is it typically conducted in coastal projects.** On the very basic development project level, we have environmental management and monitoring plans (EMMPs). So, where there is a development, there'll be a monitoring and management to make sure that there is no there is no damage to the environment as predicted by the EIA. So, everything is going to plan, right. But if you're talking about like much larger kind of evaluation of big scale projects, I feel even if they do, they don't share it. Unless it's a success story, if you get what I mean.
