@@ -69,7 +69,7 @@ But because of the urgency of the timeline, at least for the City-east coast reg
 ## Stakeholder Engagements
 **Is it me or are the information about new coastal projects quite inaccessible?** The problem with a lot of the coastal projects is that the EIA is or not publicly available, because of security issues in Malaysia. So a lot of the coastal projects have like Malaysia would, I think there's always a worry that Malaysia will try to take the data and use it against us because we share waters. So usually, it's quite hard to find EIAs like published on marine projects. 
 
-**Does this pose a problem for the involvement of stakeholders in new coastal projects?** Yes and no. Engagement in Singapore tends to be very (informing rather than consulting in developments)[https://link.springer.com/article/10.1007/BF02905122]. Even when they try to be consultative now, they don’t consult as much as they should because they want to be efficient.
+**Does this pose a problem for the involvement of stakeholders in new coastal projects?** Yes and no. Engagement in Singapore tends to be very [informing rather than consulting in developments](https://link.springer.com/article/10.1007/BF02905122). Even when they try to be consultative now, they don’t consult as much as they should because they want to be efficient.
 
 **To clarify, when in the planning process it does actually happen?** It happens much, much further downstream at the implementation stage after the EIA is done. Before they start constructing, then they tell people. 
 
@@ -98,8 +98,7 @@ But if we are trying to build these integrated solutions that have multiple bene
 The iterative process where you learn from it and then you build again is not done often. Maybe it's done informally, like the designers who saw it through, informs that we should do them differently the next time, but it's not something that is built into the process in the ways they record the document, and then they use it for the next cycle of planning. 
 
 ## Reflection and Discussions
-
-The discussion about water governance has opened the conversation about a broader governance structure that influences coastal management practices. We can see that some of the stregnths of such a structure is conversely also the reason for some weaknesses.
+"Every land decision is a water management decision"; the discussion about water governance has opened the conversation about a broader governance structure of landuse that influences coastal management practices. From the interviews, we can see how some of the strengths of such a structure is conversely the reason for some weaknesses.
 
 **Efficient and Science-focused Governance.**
 Singapore’s efficient organizational structure and integrated approach is effective in planning for coastal protections. Even with such a centralized form of governance, the focused areas are decentralized (through Adaptation Planning Areas) and dealt with separately with respect to their unique needs and land characteristics. 
